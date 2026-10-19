@@ -1,4 +1,4 @@
-# ChromElevator <sup><sub><sup>(`Chrome App-Bound Encryption Decryption`)
+#קוד הוכחת היתכנות המציג עקיפת הגנה של כרום ופעילות גונב מידע בזיכרון. מצאתי את מפתח המאסטר.
 
 ## 🛡️ Core Technical Pillars
 
